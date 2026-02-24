@@ -30,7 +30,9 @@ Esto garantizará que cualquier actualización llegue a tu rama actual.
 
 1.  Ve al menú superior:  
     **Git → Fetch**
-2.  Visual Studio descargará los cambios nuevos del servidor, pero **sin mezclarlos todavía**.
+2.  Ve al menú superior:  
+    **Git → Pull**
+3.  Visual Studio descargará los cambios nuevos del servidor, pero **sin mezclarlos todavía**.
 
 Debes ver un mensaje tipo:  
 _“Fetched origin with X updates”_.
